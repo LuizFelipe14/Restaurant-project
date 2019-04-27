@@ -1,0 +1,14 @@
+C:\Users\Felipe\Desktop\C#\Restaurante\Restaurante\Restaurante\bin\Debug\Restaurante.exe.config
+C:\Users\Felipe\Desktop\C#\Restaurante\Restaurante\Restaurante\bin\Debug\Restaurante.exe
+C:\Users\Felipe\Desktop\C#\Restaurante\Restaurante\Restaurante\bin\Debug\Restaurante.pdb
+C:\Users\Felipe\Desktop\C#\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.csprojAssemblyReference.cache
+C:\Users\Felipe\Desktop\C#\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.Form1.resources
+C:\Users\Felipe\Desktop\C#\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.Properties.Resources.resources
+C:\Users\Felipe\Desktop\C#\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.csproj.GenerateResource.cache
+C:\Users\Felipe\Desktop\C#\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\C#\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.exe
+C:\Users\Felipe\Desktop\C#\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.pdb
+C:\Users\Felipe\Desktop\C#\Restaurante\Restaurante\Restaurante\bin\Debug\MySql.Data.dll
+C:\Users\Felipe\Desktop\C#\Restaurante\Restaurante\Restaurante\bin\Debug\Google.Protobuf.dll
+C:\Users\Felipe\Desktop\C#\Restaurante\Restaurante\Restaurante\bin\Debug\MySql.Data.xml
+C:\Users\Felipe\Desktop\C#\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.csproj.CopyComplete
